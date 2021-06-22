@@ -1,2 +1,0 @@
-"# memoriesgame" 
-"# developmentwebru.github.io" 
